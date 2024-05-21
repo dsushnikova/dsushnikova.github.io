@@ -1,8 +1,12 @@
 github_users:
-  - dsushnikova
-
+  - torvalds
+  - alshedivat
 
 github_repos:
-  - dsushnikova/ce_solver
-  - dsushnikova/h2_nonext_sp
-  - dsushnikova/fmm-lu
+  - alshedivat/al-folio
+  - twbs/bootstrap
+  - jekyll/jekyll
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - jpswalsh/academicons
+  - mathjax/MathJax
