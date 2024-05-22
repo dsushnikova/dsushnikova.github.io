@@ -624,3 +624,5 @@ jsonresume:
   - languages
   - interests
   - references
+
+  cv_pdf: cv.pdf
