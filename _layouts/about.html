@@ -39,7 +39,7 @@ layout: default
           <div class="clearfix">
             {{ content }}
           </div>
-          <a href="assets/pdf/cv.pdf" target="_blank">CV</a>
+          <a href="{{ cv.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">CV</a>
           <!-- News -->
           {% if page.news -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
