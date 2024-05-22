@@ -625,4 +625,4 @@ jsonresume:
   - interests
   - references
 
-# cv_pdf: cv.pdf
+cv_pdf: cv.pdf
