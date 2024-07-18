@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 My scientific interests lie in the areas of numerical linear algebra, scientific computing, high-performance computing, direct solvers and preconditioners, rank-structured matrices, hierarchical matrices, and applications.
 
 
-<a href="assets/pdf/cv.pdf" target="_blank">CV</a>
+<a href="assets/pdf/cv.pdf" target="_blank">My CV</a>
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
